@@ -25,9 +25,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "ProyectoFinal_QuirogaLucasLautaro/ProyectoIntergadorLLQ/node_modules/bootstrap/dist/css/bootstrap.css"
             ],
-            "scripts": []
+            "scripts": [
+              "ProyectoFinal_QuirogaLucasLautaro/ProyectoIntergadorLLQ/node_modules/bootstrap/dist/js/bootstrap.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -94,5 +97,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "cc6c330b-b0f2-4eb6-a150-838a28334c9d"
   }
 }
